@@ -1,0 +1,43 @@
+# Thư mục của Unity
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+MemoryCaptures/
+
+# Các tệp cấu hình hệ điều hành
+.DS_Store
+Thumbs.db
+
+# Các tệp của Visual Studio
+.vs/
+*.csproj
+*.sln
+*.userprefs
+
+# Tệp cache
+*.pidb
+*.suo
+*.user
+*.unityproj
+*.cubemap
+*.prefab
+*.asset
+*.mask
+*.mat
+*.meta
+*.tga
+*.png
+*.jpg
+*.jpeg
+*.exr
+
+# Các tệp nén và xuất
+*.zip
+*.rar
+*.tar
+*.gz
+*.7z
+*.unitypackage
